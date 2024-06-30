@@ -11,7 +11,7 @@
 
 
 function wp_analytics_code() {
-  // Here the HTML code to <head>
+  // Paste here the HTML code for <head>
   ?>
 
 
