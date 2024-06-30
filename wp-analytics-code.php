@@ -15,7 +15,7 @@ function wp_analytics_code() {
   ?>
 
 
-<?php
+  <?php
 }
 
 add_action( 'wp_head', 'wp_analytics_code' );
