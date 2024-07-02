@@ -6,7 +6,7 @@
  * Author:            BernatQi
  * Author URI:        https://bernatqi.dev/
  * License:           GPL v2 or later
- * Text Domain:       mwp-analytics-code
+ * Text Domain:       wp-analytics-code
  */
 
 
